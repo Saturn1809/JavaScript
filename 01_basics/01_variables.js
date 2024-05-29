@@ -12,3 +12,4 @@ accountCity="bengluru"
 console.log(accountId); //used for single printing
 console.table( [accountEmail, accountId, accountPassword, accountCity,accountState]) //used for multiple values printing in a table 
 // node 01_basics/01_variables.js
+//hello i am aditi
