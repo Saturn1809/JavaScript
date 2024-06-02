@@ -64,6 +64,3 @@ const values= coding1.forEach( function (val) {
 )
 // console.log(values);
 
-const myNums = [1,2,3,4,55,6,7,8,8,10]
-
-my
