@@ -54,7 +54,9 @@ if (Object.keys(emptyobj).length === 0 ) {
     console.log("object is empty ");
 }
 
-// Nullish Coalescing Operator (??): null defined
+// Nullish Coalescing Operator (??): null undefined.
+// deal with complex function giving value null or undefined.
+
 
 let val1;
 
